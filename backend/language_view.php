@@ -1,6 +1,8 @@
 <?php
 include 'dbconnect.php';
+include 'auth_check.php';
 include 'header.php';
+
 ?>
 
 
